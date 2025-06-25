@@ -1,5 +1,5 @@
-import { db } from './firebase';
-import { collection, getDocs } from 'firebase/firestore';
+// import { db } from './firebase';
+// import { collection, getDocs } from 'firebase/firestore';
 
 // Calculate distance using Haversine formula (miles)
 const calculateDistance = (lat1, lon1, lat2, lon2) => {
